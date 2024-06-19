@@ -71,7 +71,7 @@ def on_forever():
 basic.forever(on_forever)
 ```
 
-## Soil Moisture Sensor and Water Pump Actuator
+## Irrigation Management Device
 
 ```
 /* XBee Initialisation */
