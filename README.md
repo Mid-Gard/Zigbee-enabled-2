@@ -1,7 +1,7 @@
 # Zigbee-enabled-2
 Livestock, Weather, Soil
 
-## Weather Statiom
+## Weather Station
 Micro:Bit python code to send paramters from the micro:climate kit.
 
 ```
